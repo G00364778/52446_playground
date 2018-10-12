@@ -7,3 +7,9 @@ git add .
 git commit -m "comment"
 
 git status
+
+git push
+
+git pull
+
+git clone "URL"
